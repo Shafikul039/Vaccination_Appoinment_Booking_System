@@ -1,7 +1,7 @@
 Implement Vaccine Booking Management in C language:
 This project is made to make the vaccine booking system more easier.We conducted this project in C language which is the basic programming language.
 
-For this project we needed two header files,which are sdio.h and string.h.We also needed a file which we named vaccine.txt.
+For this project we needed two header files,which are stdio.h and string.h.We also needed a file which we named vaccine.txt.
 
 This program contists 5 functions.The name of the functions and a short description about each function is given in the below:
 
